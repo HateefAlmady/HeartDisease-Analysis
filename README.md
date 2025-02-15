@@ -1,4 +1,4 @@
-📌 Overview 
+## 📌 Overview 
 This project analyzes a heart disease dataset to uncover key insights and trends that can contribute to early detection and prevention. It includes data preprocessing, exploratory data analysis (EDA), and machine learning techniques to identify patterns in heart disease diagnoses. The insights gained from this analysis can help in risk assessment and decision-making in healthcare.
 
 🎯 Objectives
