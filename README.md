@@ -1,12 +1,12 @@
 ## 📌 Overview 
 This project analyzes a heart disease dataset to uncover key insights and trends that can contribute to early detection and prevention. It includes data preprocessing, exploratory data analysis (EDA), and machine learning techniques to identify patterns in heart disease diagnoses. The insights gained from this analysis can help in risk assessment and decision-making in healthcare.
 
-🎯 Objectives
-✔️ Determine the percentage of patients diagnosed with heart disease
-✔️ Classify heart disease diagnoses by gender
-✔️ Analyze the relationship between age and heart disease cases
-✔️ Count the total number of diagnoses
-✔️ Identify key risk factors through data visualization and statistical analysis
+## 🎯 Objectives  
+✔️ Determine the percentage of patients diagnosed with heart disease  
+✔️ Classify heart disease diagnoses by gender  
+✔️ Analyze the relationship between age and heart disease cases  
+✔️ Count the total number of diagnoses  
+✔️ Identify key risk factors through data visualization and statistical analysis  
 
 📂 Dataset
 The dataset includes patient health records with features such as age, gender, cholesterol levels, and heart disease status.
