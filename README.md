@@ -13,7 +13,7 @@ This dataset consists of **patient health records**, including key attributes su
 ## 🛠 Technologies Used  
 
 ## 🖼 Dataset Preview  
-![Dataset Visualization]("C:\Users\hatee\OneDrive\Pictures\Screenshots\Screenshot 2025-02-15 160324.png")
+("C:\Users\hatee\OneDrive\Pictures\Screenshots\Screenshot 2025-02-15 160324.png")
 
 | Technology | Description |
 |------------|------------|
