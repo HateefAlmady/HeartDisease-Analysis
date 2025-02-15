@@ -20,7 +20,7 @@ This dataset consists of **patient health records**, including key attributes su
 | 🤖 Scikit-learn | Machine learning |
 | 📓 Jupyter Notebook | Analysis & visualization |
 
-## 📊 Key Insights  
-- 🔹 **Heart disease** is more prevalent in males over 50.  
-- 🔹 **Cholesterol levels and age** show a strong correlation with heart disease.  
-- 🔹 **Patients with high blood pressure and BMI** have an increased risk.  
+## 📊 Key Insights   
+🔹 **Heart disease** is more prevalent in males over 50.  
+🔹 **Cholesterol levels and age** show a strong correlation with heart disease.  
+🔹 **Patients with high blood pressure and BMI** have an increased risk.  
