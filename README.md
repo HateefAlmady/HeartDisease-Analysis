@@ -12,10 +12,15 @@ This project analyzes a heart disease dataset to uncover key insights and trends
 The dataset includes patient health records with features such as age, gender, cholesterol levels, and heart disease status.
 The data was cleaned and processed to remove missing values and inconsistencies.
 
-🛠 Technologies Used
-Python 🐍
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-Jupyter Notebook for analysis and visualization
+## 🛠 Technologies Used  
+
+| Technology | Description |
+|------------|------------|
+| 🐍 Python | Programming language |
+| 📊 Pandas, NumPy | Data manipulation |
+| 📈 Matplotlib, Seaborn | Data visualization |
+| 🤖 Scikit-learn | Machine learning |
+| 📓 Jupyter Notebook | Analysis & visualization |
 
 📊 Key Insights
 🔹 Heart disease is more prevalent in males over 50.
