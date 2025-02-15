@@ -12,6 +12,9 @@ This project analyzes a heart disease dataset to uncover key insights and trends
 This dataset consists of **patient health records**, including key attributes such as **age, gender, cholesterol levels, and heart disease status**. To ensure data quality, it underwent **preprocessing**, including handling missing values, removing inconsistencies, and standardizing formats. This cleaned dataset was then used for in-depth analysis and visualization.
 ## 🛠 Technologies Used  
 
+## 🖼 Dataset Preview  
+![Dataset Visualization](path_to_image.png)
+
 | Technology | Description |
 |------------|------------|
 | 🐍 Python | Programming language |
