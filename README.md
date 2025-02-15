@@ -8,10 +8,8 @@ This project analyzes a heart disease dataset to uncover key insights and trends
 ✔️ Count the total number of diagnoses  
 ✔️ Identify key risk factors through data visualization and statistical analysis  
 
-📂 Dataset
-The dataset includes patient health records with features such as age, gender, cholesterol levels, and heart disease status.
-The data was cleaned and processed to remove missing values and inconsistencies.
-
+## 📂 Dataset  
+This dataset consists of **patient health records**, including key attributes such as **age, gender, cholesterol levels, and heart disease status**. To ensure data quality, it underwent **preprocessing**, including handling missing values, removing inconsistencies, and standardizing formats. This cleaned dataset was then used for in-depth analysis and visualization.
 ## 🛠 Technologies Used  
 
 | Technology | Description |
